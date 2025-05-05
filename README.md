@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Fernando FonteBasso
+## 👋 Olá! Eu sou o Fernando Fontebasso
 
 🎓 Sou Data Engineer | Cloud Enthusiast com experiência em projetos que envolvem ingestão, processamento e modelagem de dados na nuvem, utilizando tecnologias como Python, SQL, Spark e AWS.
 
