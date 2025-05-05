@@ -10,7 +10,7 @@
 
 📍 Brasileiro, atualmente morando em Ubatuba 🌊
 
-📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/fernando-fontebasso-185ab4ab) ou entrar em contato por e-mail: seu-email@dominio.com
+📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/fernando-fontebasso-185ab4ab) ou entrar em contato por e-mail: fernando.fontebasso.satyro@gmail.com
 
 
 <!---
